@@ -1,2 +1,40 @@
-# Gestiopass
-Gestiopass est un logiciel local de stockage de mots de passe, offrant un contrôle total à l'utilisateur sur ses données sensibles. Stockez en sécurité vos mots de passe, identifiants et infos de connexion.
+# Nom du Projet
+Gestiopass est un logiciel de stockage de mots de passe conçu pour fonctionner en local. Les données sont stockées localement sur l'appareil de l'utilisateur plutôt que sur un serveur distant. Cela permet de conserver le contrôle total sur leurs mots de passe et d'éviter de confier leurs informations sensibles à des tiers. Gestiopass, vous permet de stocker en toute sécurité différents mots de passe, identifiants et autres informations de connexion. Le logiciel utilise une base de données chiffrée pour stocker les données sensibles.
+
+## Table des matières
+- [Installation](#installation)
+- [Utilisation](#utilisation)
+- [Contribuer](#contribuer)
+- [Structure du répertoire](#structure-du-répertoire)
+- [Auteurs](#auteurs)
+
+## Installation
+Pour installer Gestiopass, suivez les étapes suivantes :
+  1) Téléchargez le dossier complet de Gestiopass depuis (https://github.com/antoinecstl/Gestiopass)
+  2) Localisez le fichier Gestiopass.exe dans le dossier téléchargé.
+  3) Double-cliquez sur le fichier Gestiopass.exe pour lancer le logiciel.
+
+Assurez-vous d'avoir les droits d'administrateur sur votre système pour pouvoir installer des applications. Une fois l'installation terminée, vous pouvez commencer à utiliser Gestiopass pour stocker en toute sécurité vos mots de passe.
+
+## Utilisation
+Lors de votre première utilisation de Gestiopass, vous devrez créer un compte avec les informations suivantes :
+
+  - Identifiant : Choisissez un identifiant unique qui vous sera facile à retenir. Cela peut être votre nom d'utilisateur ou une autre information personnelle.
+  
+  - Mot de passe principal : Sélectionnez un mot de passe fort pour protéger votre compte Gestiopass. Assurez-vous d'utiliser une combinaison de lettres, de chiffres et de caractères spéciaux. Ce mot de passe pourra être modifié ultérieurement.
+
+  - Clé de cryptage : Vous devrez également choisir une clé de cryptage distincte, qui est une autre forme de mot de passe utilisée pour crypter vos données. Cette clé de cryptage ne pourra pas être modifiée par la suite, il est donc essentiel de la choisir attentivement et de la retenir en toute sécurité.
+
+Il est crucial de mémoriser votre identifiant, votre mot de passe principal et votre clé de cryptage, car ce sont les seules informations dont vous aurez besoin pour accéder à votre compte Gestiopass. Assurez-vous de les garder confidentiels et de ne pas les partager avec d'autres personnes.
+
+!!!En cas d'oubli ou de perte de votre mot de passe principal ou de votre clé de cryptage, il est impossible, de récupérer vos données stockées dans Gestiopass. Prenez donc toutes les précautions nécessaires pour les conserver en toute sécurité!!!
+
+## Contribuer
+N'hesitez pas à me contacter à cette adresse mail pour toute suggestion ou erreur: antoine.castel@ipsa.fr
+
+## Structure du répertoire
+Le code a été rédigé en python puis transformé en executable à l'aide de auto-py-to-exe
+
+## Auteurs
+Antoine CASTEL
+
