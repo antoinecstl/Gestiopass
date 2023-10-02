@@ -24,8 +24,7 @@ Il est crucial de mémoriser votre identifiant, votre mot de passe principal et 
 N'hesitez pas à me contacter à cette adresse mail pour toute suggestion ou erreur: antoine.castel@ipsa.fr
 
 ## Structure du répertoire
-Le code a été rédigé en python puis transformé en executable à l'aide de auto-py-to-exe
-
+Run main.py ou compacter le dossier dans un executable.
 ## Auteurs
 Antoine CASTEL
 
