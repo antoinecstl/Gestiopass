@@ -1,4 +1,4 @@
-# Nom du Projet
+# Gestiopass
 Gestiopass est un logiciel de stockage de mots de passe conçu pour fonctionner en local. Les données sont stockées localement sur l'appareil de l'utilisateur plutôt que sur un serveur distant. Cela permet de conserver le contrôle total sur leurs mots de passe et d'éviter de confier leurs informations sensibles à des tiers. Gestiopass, vous permet de stocker en toute sécurité différents mots de passe, identifiants et autres informations de connexion. Le logiciel utilise une base de données chiffrée pour stocker les données sensibles.
 
 ## Table des matières
@@ -10,7 +10,7 @@ Gestiopass est un logiciel de stockage de mots de passe conçu pour fonctionner 
 
 ## Installation
 Pour installer Gestiopass, suivez les étapes suivantes :
-  1) Téléchargez le dossier complet de Gestiopass depuis (https://github.com/antoinecstl/Gestiopass)
+  1) Téléchargez le dossier Gestiopass.
   2) Localisez le fichier Gestiopass.exe dans le dossier téléchargé.
   3) Double-cliquez sur le fichier Gestiopass.exe pour lancer le logiciel.
 
