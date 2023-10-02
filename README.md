@@ -2,21 +2,13 @@
 Gestiopass est un logiciel de stockage de mots de passe conçu pour fonctionner en local. Les données sont stockées localement sur l'appareil de l'utilisateur plutôt que sur un serveur distant. Cela permet de conserver le contrôle total sur leurs mots de passe et d'éviter de confier leurs informations sensibles à des tiers. Gestiopass, vous permet de stocker en toute sécurité différents mots de passe, identifiants et autres informations de connexion. Le logiciel utilise une base de données chiffrée pour stocker les données sensibles.
 
 ## Table des matières
-- [Installation](#installation)
 - [Utilisation](#utilisation)
 - [Contribuer](#contribuer)
 - [Structure du répertoire](#structure-du-répertoire)
 - [Auteurs](#auteurs)
 
-## Installation
-Pour installer Gestiopass, suivez les étapes suivantes :
-  1) Téléchargez le dossier Gestiopass.
-  2) Localisez le fichier Gestiopass.exe dans le dossier téléchargé.
-  3) Double-cliquez sur le fichier Gestiopass.exe pour lancer le logiciel.
-
-Assurez-vous d'avoir les droits d'administrateur sur votre système pour pouvoir installer des applications. Une fois l'installation terminée, vous pouvez commencer à utiliser Gestiopass pour stocker en toute sécurité vos mots de passe.
-
 ## Utilisation
+Run main.py
 Lors de votre première utilisation de Gestiopass, vous devrez créer un compte avec les informations suivantes :
 
   - Identifiant : Choisissez un identifiant unique qui vous sera facile à retenir. Cela peut être votre nom d'utilisateur ou une autre information personnelle.
