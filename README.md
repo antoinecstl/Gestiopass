@@ -9,6 +9,7 @@ Gestiopass est un logiciel de stockage de mots de passe conçu pour fonctionner 
 
 ## Utilisation
 Run main.py
+
 Lors de votre première utilisation de Gestiopass, vous devrez créer un compte avec les informations suivantes :
 
   - Identifiant : Choisissez un identifiant unique qui vous sera facile à retenir. Cela peut être votre nom d'utilisateur ou une autre information personnelle.
